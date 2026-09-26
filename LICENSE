@@ -1,0 +1,9 @@
+Cinder Ash is distributed under GPL-3.0-or-later.
+
+The complete GPL-3.0 license text is available at:
+
+    LICENSES/GPL-3.txt
+
+Some bundled assets are derived from upstream KDE Plasma and Kvantum theme
+components and retain their original licenses. See THIRD-PARTY.md and the
+LICENSES directory for component-level copyright and license details.

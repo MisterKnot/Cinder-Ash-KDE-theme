@@ -1,0 +1,11 @@
+.cache/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.swp
+*~
+dist/
+build/
+

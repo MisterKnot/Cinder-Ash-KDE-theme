@@ -1,0 +1,17 @@
+{
+  "name": "Cinder Ash",
+  "version": "0.01",
+  "creator": "MisterKnot",
+  "github": "https://github.com/MisterKnot",
+  "colors": {
+    "background": "#151313",
+    "surface": "#2A2421",
+    "border": "#4A3E3D",
+    "hover": "#8B0000",
+    "primary": "#C23B22",
+    "active": "#FF4500",
+    "gold": "#E0A96D",
+    "text": "#E4DDD5",
+    "muted": "#A59D98"
+  }
+}

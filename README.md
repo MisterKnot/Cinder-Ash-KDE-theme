@@ -6,6 +6,8 @@
 
 A new KDE Plasma 6 theme by [MisterKnot](https://github.com/MisterKnot), using nine colors inspired by Dark Souls. 
 
+You can find screenshots at [opendesktop.org](https://www.opendesktop.org/p/2374400/)
+
 ## Included
 
 KDE color scheme, Kvantum application style, Plasma panels and widgets, Aurorae window decorations, original 4K wallpaper, startup splash, lock-screen wallpaper/palette integration, and an original Qt 6 SDDM login theme. Icons, cursors, fonts, panel placement and desktop layout remain yours. Standard window decoration controls are included.

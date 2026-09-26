@@ -1,0 +1,11 @@
+[Wallpaper]
+defaultWallpaperTheme=CinderAsh
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2160
+
+[ContrastEffect]
+enabled=false
+
+[AdaptiveTransparency]
+enabled=false

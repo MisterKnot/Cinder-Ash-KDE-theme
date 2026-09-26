@@ -1,0 +1,16 @@
+{
+  "KPlugin": {
+    "Id": "CinderAsh",
+    "Name": "Cinder Ash",
+    "Description": "Cinder Ash 0.01 \u2014 charcoal, crimson and ember by MisterKnot",
+    "Version": "0.01",
+    "Authors": [
+      {
+        "Name": "MisterKnot"
+      }
+    ],
+    "Website": "https://github.com/MisterKnot",
+    "License": "LGPL-2.0-or-later"
+  },
+  "X-Plasma-APIVersion": "2"
+}

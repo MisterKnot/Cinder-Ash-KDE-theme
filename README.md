@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cinder-ash-logo.png" alt="Cinder Ash logo" width="220">
+</p>
+
 # Cinder Ash 0.01
 
 A new KDE Plasma 6 theme by [MisterKnot](https://github.com/MisterKnot), using nine colors inspired by Dark Souls. 

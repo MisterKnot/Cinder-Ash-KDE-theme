@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Cinder Ash
+Description=Cinder Ash 0.01 — charcoal, crimson and ember
+Author=MisterKnot
+Copyright=2026 MisterKnot
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.01
+Website=https://github.com/MisterKnot
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=CinderAsh
+Theme-API=2.0
+QtVersion=6

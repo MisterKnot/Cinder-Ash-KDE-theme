@@ -1,6 +1,6 @@
 # Cinder Ash 0.01
 
-A new KDE Plasma 6 theme by [MisterKnot](https://github.com/MisterKnot), using the nine colors in **MisterKnot Social / Color Palette.md**. This is a separate package, not an Ambinance release.
+A new KDE Plasma 6 theme by [MisterKnot](https://github.com/MisterKnot), using nine colors inspired by Dark Souls. 
 
 ## Included
 
